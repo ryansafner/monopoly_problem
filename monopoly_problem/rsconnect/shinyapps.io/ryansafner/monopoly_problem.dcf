@@ -1,0 +1,12 @@
+name: monopoly_problem
+title: monopoly_problem
+username:
+account: ryansafner
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4200817
+bundleId: 4652142
+url: https://ryansafner.shinyapps.io/monopoly_problem/
+when: 1622227403.18123
+asMultiple: FALSE
+asStatic: FALSE
